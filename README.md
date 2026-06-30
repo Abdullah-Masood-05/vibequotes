@@ -1,4 +1,19 @@
-# Feelings Quote Generator
+<p align="center">
+  <img src="public/logo.svg" alt="Feelings Quote Generator" width="116" height="116" />
+</p>
+
+<h1 align="center">Feelings Quote Generator</h1>
+
+<p align="center">
+  Turn your feelings into share-ready quotes for <b>WhatsApp Status</b> &amp; <b>Instagram Stories</b>.
+</p>
+
+<p align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-1.x-000000?logo=bun&logoColor=white" />
+  <img alt="Quotes by Groq" src="https://img.shields.io/badge/Quotes%20by-Groq-F55036" />
+</p>
 
 Describe how you're feeling and get short, share-ready quotes for your
 **WhatsApp Status** and **Instagram Stories** — with one-tap copy, a downloadable
